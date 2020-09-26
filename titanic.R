@@ -1,4 +1,5 @@
 tit <- read.csv("titanic.csv",na.strings = c("","NA"))
+the file
 View(tit)
 str(tit)
 summary(tit)
